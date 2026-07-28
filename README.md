@@ -6,3 +6,5 @@ reach me:
 - github: [nikitaaxo](https://github.com/nikitaaxo)
 - linkedin: [iamnikitaa](https://linkedin.com/in/iamnikitaa)
 - email: iamnikita004@gmail.com
+
+<img src="https://media.giphy.com/media/FtjFblhSkDm6oCwSPW/giphy.gif" width="200">
